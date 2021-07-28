@@ -1,0 +1,27 @@
+h1 {
+    color: #FF00FF;
+    text-align: center;
+ /* Configurações de subtitulo */
+}
+ #titulo1 {
+    color:blue;
+    text-align: right;
+
+}
+#titulo2 {
+    color:red;
+    text-align: left;
+}
+ /* Junção de Itens Diferents */
+.grupo{
+    color:blueviolet;
+    text-align: center;
+}
+    
+
+
+
+
+
+
+

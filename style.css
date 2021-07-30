@@ -1,23 +1,52 @@
+*{
+    margin: 0;
+}
+
+#cabecalho{
+    /* LARGURA */
+    width: 100%;
+    /* ALTURA */
+    height: 20%;
+        background-color: rgb(69, 53, 218);
+}
+#principal{
+    width: 100%;
+    height: 50%;
+        background-color: rgb(161, 122, 233);
+}
+#rodape{
+    width: 100%;
+    height: 20%;
+        background-color: rgb(161, 122, 233);
+}
+
+
+
 h1 {
-    color: #FF00FF;
-    text-align: center;
+    color: #00ff80;
+    
  /* Configurações de subtitulo */
 }
  #titulo1 {
-    color:blue;
-    text-align: right;
+    color:rgb(255, 255, 255);
+    text-align: left;
 
 }
 #titulo2 {
-    color:red;
-    text-align: left;
+    color:rgb(255, 255, 255);
+    text-align: right;
 }
- /* Junção de Itens Diferents */
-.grupo{
-    color:blueviolet;
-    text-align: center;
+h3{
+    color: darkblue;
+    font-family:monospace;
+    font-size: 45px;
 }
+img{
+    width: 300px;
+    height: 300px;
     
+}
+
 
 
 
